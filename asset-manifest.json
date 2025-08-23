@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/factopedia/static/css/main.38caef0e.css",
-    "main.js": "/factopedia/static/js/main.9d53403f.js",
-    "static/js/453.e13246fe.chunk.js": "/factopedia/static/js/453.e13246fe.chunk.js",
-    "index.html": "/factopedia/index.html",
-    "main.38caef0e.css.map": "/factopedia/static/css/main.38caef0e.css.map",
-    "main.9d53403f.js.map": "/factopedia/static/js/main.9d53403f.js.map",
-    "453.e13246fe.chunk.js.map": "/factopedia/static/js/453.e13246fe.chunk.js.map"
+    "main.css": "/factopedia-web/static/css/main.38caef0e.css",
+    "main.js": "/factopedia-web/static/js/main.064f66e7.js",
+    "static/js/453.e13246fe.chunk.js": "/factopedia-web/static/js/453.e13246fe.chunk.js",
+    "index.html": "/factopedia-web/index.html",
+    "main.38caef0e.css.map": "/factopedia-web/static/css/main.38caef0e.css.map",
+    "main.064f66e7.js.map": "/factopedia-web/static/js/main.064f66e7.js.map",
+    "453.e13246fe.chunk.js.map": "/factopedia-web/static/js/453.e13246fe.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.38caef0e.css",
-    "static/js/main.9d53403f.js"
+    "static/js/main.064f66e7.js"
   ]
 }
