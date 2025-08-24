@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/factopedia-web/static/css/main.38caef0e.css",
-    "main.js": "/factopedia-web/static/js/main.d1f20f4e.js",
+    "main.js": "/factopedia-web/static/js/main.b7dadc13.js",
     "static/js/453.e13246fe.chunk.js": "/factopedia-web/static/js/453.e13246fe.chunk.js",
     "index.html": "/factopedia-web/index.html",
     "main.38caef0e.css.map": "/factopedia-web/static/css/main.38caef0e.css.map",
-    "main.d1f20f4e.js.map": "/factopedia-web/static/js/main.d1f20f4e.js.map",
+    "main.b7dadc13.js.map": "/factopedia-web/static/js/main.b7dadc13.js.map",
     "453.e13246fe.chunk.js.map": "/factopedia-web/static/js/453.e13246fe.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.38caef0e.css",
-    "static/js/main.d1f20f4e.js"
+    "static/js/main.b7dadc13.js"
   ]
 }
