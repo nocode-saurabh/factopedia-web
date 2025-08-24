@@ -29,9 +29,17 @@ jobs:
       - name: Install Dependencies
         run: npm install
 
+      - name: Debug Environment
+        run: |
+          echo "REACT_APP_API_URL: $REACT_APP_API_URL"
+          echo "NODE_ENV: $NODE_ENV"
+        env:
+          REACT_APP_API_URL: ${{ secrets.REACT_APP_API_URL }}
+
       - name: Build
         env:
           REACT_APP_API_URL: ${{ secrets.REACT_APP_API_URL }}
+          CI: false
         run: npm run build
 
       - name: Setup Pages
